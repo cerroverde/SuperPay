@@ -30,7 +30,7 @@ namespace SuperPay
         {
             Program objProgram = new Program();
             //Create a connection to VistaDB
-            string connectionString = @"Data Source=C:\Users\malopez\Desktop\Superpay4New.vdb6;Open Mode=SingleProcessReadWrite";
+            string connectionString = @"Data Source=C:\superpay\Superpay4.vdb6;Open Mode=SingleProcessReadWrite";
 
             //Create string connection to Oracle
             string conString = "User Id=dwrrhh; password=milenaok;" +
